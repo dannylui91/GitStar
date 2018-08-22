@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="dividerGray">#e7e7e7</color>
+    <color name="lightGray">#586069</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="langColorDefault">@color/black</color>
+    <color name="javaBrown">#B07125</color>
+    <color name="javaScriptYellow">#F1DF68</color>
+    <color name="rubyRed">#701616</color>
+    <color name="pythonBlue">#3573A3</color>
+    <color name="cGray">#555555</color>
+    <color name="cplusplusPink">#F44E7B</color>
+    <color name="goBlue">#3760A8</color>
+    <color name="htmlPink">#E44D29</color>
+    <color name="scalaPink">#C32F3F</color>
+    <color name="shellGreen">#88DE61</color>
+    <color name="cssBrown">#563F79</color>
+    <color name="phpGray">#4F5E93</color>
+    <color name="objectiveCBlue">#4391FA</color>
+    <color name="kotlinOrange">#F18D3D</color>
+</resources>

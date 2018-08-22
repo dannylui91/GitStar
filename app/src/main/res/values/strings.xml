@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitStar</string>
+
+    <string name="search_hint">Search Github Organizations</string>
+    <string name="error_text">Something went wrong :(</string>
+    <string name="empty_text">No results found</string>
+</resources>
